@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="ML2">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../ML2" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../ML2/src" />
+    </SOURCES>
+  </library>
+</component>
